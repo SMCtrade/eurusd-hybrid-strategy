@@ -1,0 +1,11 @@
+cat > requirements.txt << 'EOF'
+torch                 # PyTorch с MPS-поддержкой
+lightgbm              # LightGBM с OpenMP (brew install libomp)
+numpy
+pandas
+matplotlib
+optuna
+pytorch-lightning
+requests
+pyyaml                # для чтения config/strategy.yaml
+EOF
