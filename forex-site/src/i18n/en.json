@@ -1,0 +1,46 @@
+{
+  "header": {
+    "nav": {
+      "home": "Home",
+      "algorithm": "Algorithm",
+      "accuracy": "Accuracy",
+      "ai": "AI",
+      "pricing": "Pricing",
+      "blog": "Blog"
+    },
+    "buttons": {
+      "login": "Log in",
+      "register": "Register"
+    }
+  },
+  "hero": {
+    "title": "FOREX ASSISTANT",
+    "animatedWords": ["MONITORS", "ANALYZES", "CONTROLS"],
+    "subtitle": "THE MARKET FOR YOU",
+    "buttons": {
+      "tryFree": "TRY FOR FREE",
+      "howWorks": "HOW IT WORKS"
+    }
+  },
+  "algorithm": {
+    "title": "FOREX IS SIMPLE. THE ASSISTANT TAKES THE HARD WORK.",
+    "steps": [
+      {
+        "title": "You don't need to learn analysis and risk",
+        "description": ""
+      },
+      {
+        "title": "Finding where the price can reverse or accelerate",
+        "description": "We look for liquidity and inefficiency levels – that's usually where liquidity or impulse starts."
+      },
+      {
+        "title": "Mark the entry point – only after confirmation",
+        "description": "We wait for confirmation: breakout and retest of a level, structure change or entry pattern – we enter only after analysis."
+      },
+      {
+        "title": "Pre-set stop-loss and targets",
+        "description": "We calculate risk/reward, place stop beyond the level, set targets based on R/R, partially fixate at intermediate levels."
+      }
+    ]
+  }
+}
